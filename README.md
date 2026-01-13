@@ -35,3 +35,7 @@ Users can delete their account and associated data directly within the app.
 
 If you have any questions about this Privacy Policy or your data, please contact:
 Email: handsomeyang@email.com
+
+---
+
+📄 [View full Privacy Policy document](PRIVACY_POLICY.md)
